@@ -1,5 +1,5 @@
 #   -------------------------------------------------------------
-#   Copyright (c) Microsoft Corporation. All rights reserved.
+#   Copyright (c) Inteligencia Bit-a-Bit. All rights reserved.
 #   Licensed under the MIT License. See LICENSE in project root for information.
 #   -------------------------------------------------------------
 """Python Package Template"""
